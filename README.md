@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # 🎮 StickSmash-Learning
 
